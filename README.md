@@ -22,8 +22,8 @@ Secciones:
 
 Secciones realizadas por cada uno:
 
-    1-2: Aun por definir
+    1-2: Carlos
 
-    3-4: Aun por definir
+    3-4: Yraida
 
-    5-6: Aun por definir
+    5-6: Octavio
